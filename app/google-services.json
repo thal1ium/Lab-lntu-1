@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209421857113",
+    "project_id": "lntu-app",
+    "storage_bucket": "lntu-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209421857113:android:d85a2001e70f56647adc48",
+        "android_client_info": {
+          "package_name": "com.example.lntu_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209421857113-o6gkqfvnujkh7gk3cpsso78rihpgokcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lntu_app_1",
+            "certificate_hash": "c87653103331ec306dfdd7b6254256bc6eee728c"
+          }
+        },
+        {
+          "client_id": "209421857113-4h09dj1pqpcmqq8p5mv8u58bn79a2d3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACNDXKEiNT_z7ymMW-CuxEb5yG2NRLxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209421857113-4h09dj1pqpcmqq8p5mv8u58bn79a2d3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
