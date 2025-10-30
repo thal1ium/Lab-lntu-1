@@ -76,7 +76,7 @@ fun LoginScreen() {
                 scope.launch {
                     try {
                         val googleIdOption = GetGoogleIdOption.Builder()
-                            .setServerClientId("209421857113-4h09dj1pqpcmqq8p5mv8u58bn79a2d3i.apps.googleusercontent.com")
+                            .setServerClientId("TOKEN")
                             .setFilterByAuthorizedAccounts(false)
                             .build()
 
