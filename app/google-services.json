@@ -22,7 +22,36 @@
           }
         },
         {
-          "client_id": "209421857113-4h09dj1pqpcmqq8p5mv8u58bn79a2d3i.apps.googleusercontent.com",
+          "client_id": "209421857113-b4nc9hvmg0v402vdqgo7gis7k6ngc57q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACNDXKEiNT_z7ymMW-CuxEb5yG2NRLxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209421857113-4h09dj1pqpcmqq8p5mv8u58bn79a2d3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209421857113:android:495aaf86ecc36ebe7adc48",
+        "android_client_info": {
+          "package_name": "com.example.partone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209421857113-b4nc9hvmg0v402vdqgo7gis7k6ngc57q.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
